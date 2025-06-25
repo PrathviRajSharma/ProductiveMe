@@ -107,7 +107,7 @@ section .elem h2 {
 
 /* Todo Full page */
 .todo-fullpage {
-  display: block;
+  /* display: none; */
 }
 .todo-fullpage {
 
